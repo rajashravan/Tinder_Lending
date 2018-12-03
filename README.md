@@ -1,5 +1,5 @@
 # Tinder_Lending
-Prototype of a Peer to Peer Lending Platform, Tinder style
+Prototype of a Peer to Peer Lending Platform, implemented in a Tinder-like format.
 
 Open Loop.vp with JustinMind
 
